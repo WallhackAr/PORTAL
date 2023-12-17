@@ -1,4 +1,4 @@
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = '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';
 
 const askQuestion = () => {
     var imagen = document.getElementById('miImagen');
